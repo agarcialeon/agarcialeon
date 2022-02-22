@@ -3,26 +3,12 @@
 ## I'm a enthusiast developer in love with Unity3D, Web Technologies and open-source.
 
 - 🔭 I’m currently working at Suma Info S.L.
-- 🌱 I’m currently learning Spring Framework and advanced Javascript.
-- 👯 I’m looking to collaborate on open-source projects.
-- 🥅 2021 goals: Improve open-source apps. Write a Unity3D book.
-- ⚡ Fun fact: I started coding because I wanted to develop videogames. Then I learned augmented reality.
-- 💬 Ask me about Java, C#, Web Technologies and Unity3D.
+- 🌱 I’m currently learning Spring Framework and advanced Javascript, with Angular.
+- 👯 I’m looking to collaborate on open-source projects and help others learn frameworks and IDEs quickly.
+- 🥅 2022 goals: Contribute to open-source repos. Write a Unity3D book. Learn Tensorflow.js.
+- ⚡ Fun fact: I started coding because I wanted to develop videogames. Then I learned augmented reality (no games for me 😞).
+- 💬 Ask me about Javascript, Angular, Java, C#, Web Technologies and Unity3D.
 - 📫 How to reach me: Check out next section.
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
 
 ## 💬 Contact
 
@@ -34,7 +20,7 @@ Here are some ideas to get you started:
 
 ## 🛠 Languages and Tools
 
-
+[<img alt="Angular" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">][Angular]
 [<img alt="Unity3D" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />][Unity3D]
 [<img alt="Spring Framework" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />][Spring Framework]
 [<img alt="Java" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][Java]
@@ -51,8 +37,10 @@ Here are some ideas to get you started:
 
 ## 📚 Learning Right Now
 
+[<img alt="Angular" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">][Angular]
 [<img alt="JavaScript" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JavaScript]
 [<img alt="Spring Framework" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />][Spring Framework]
+[<img alt="Tensorflow" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"  />][Tensorflow]
 
 ## 📃 Check my blog
 
@@ -63,6 +51,8 @@ Here are some ideas to get you started:
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=agarcialeon&show_icons=true&hide_border=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Reference URLs -->
+[Angular]: https://angular.io/
+[Tensorflow]: https://www.tensorflow.org/
 [Unity3D]: https://unity.com/es
 [Spring Framework]: https://spring.io/
 [Java]: https://www.java.com/es/download/
