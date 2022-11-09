@@ -50,6 +50,8 @@
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=agarcialeon&show_icons=true&hide_border=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
+[![@agarcialeon's Holopin board](https://holopin.me/agarcialeon)](https://holopin.io/@agarcialeon)
+
 <!-- Reference URLs -->
 [Angular]: https://angular.io/
 [Tensorflow]: https://www.tensorflow.org/
