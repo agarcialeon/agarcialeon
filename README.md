@@ -1,29 +1,24 @@
 # Hi there. I'm Álvaro - aka agarcialeon.
 
-## I'm a enthusiast developer in love with Unity3D, Web Technologies and open-source.
+## I'm a enthusiast developer in love with Web Technologies, open-source and 3D.
 
-- 🔭 I’m currently working at Suma Info S.L.
-- 🌱 I’m currently learning Spring Framework and advanced Javascript, with Angular.
-- 👯 I’m looking to collaborate on open-source projects and help others learn frameworks and IDEs quickly.
-- 🥅 2022 goals: Contribute to open-source repos. Write a Unity3D book. Learn Tensorflow.js.
+- 🔭 I’m a Frontend Developer currently working at Savia S.L.
+- 🌱 Angular and .NET are part of my current stack.
+- 👯 I’m looking to collaborate on open-source projects and help others to improve docs.
 - ⚡ Fun fact: I started coding because I wanted to develop videogames. Then I learned augmented reality (no games for me 😞).
-- 💬 Ask me about Javascript, Angular, Java, C#, Web Technologies and Unity3D.
+- 💬 Ask me about Javascript, Angular, Java, C#, Web Technologies.
 - 📫 How to reach me: Check out next section.
 
 ## 💬 Contact
 
-[<img alt="LinkedIn" width="40" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
-[<img alt="CodePen" width="40" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][CodePen]
-<!--
-[<img alt="StackOverflow" width="40" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][StackOverflow]
--->
+![LinkedIn Badge](https://img.shields.io/badge/%C3%81lvaro%20Garc%C3%ADa%20Le%C3%B3n-blue?logo=linkedin&logoColor=white&labelColor=blue&link=https%3A%2F%2Fes.linkedin.com%2Fin%2Falgarleon)
+[![Mail Badge](https://img.shields.io/badge/-email-8B89CC?style=flat-square&logo=gmail&logoColor=white&link=mailto:garcia.leon.alvaro@gmail.com)](mailto:garcia.leon.alvaro@gmail.com)
+[![Codepen](https://img.shields.io/badge/-codepen-white?style=flat-square&logo=codepen&logoColor=black&link=https://codepen.io/algarle)](https://codepen.io/algarle)
 
 ## 🛠 Languages and Tools
 
 [<img alt="Angular" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">][Angular]
 [<img alt="Unity3D" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />][Unity3D]
-[<img alt="Spring Framework" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />][Spring Framework]
-[<img alt="Java" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][Java]
 [<img alt="HTML" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML]
 [<img alt="CSS" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS]
 [<img alt="JavaScript" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JavaScript]
@@ -34,13 +29,6 @@
 [<img alt="Node" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][Node]
 [<img alt="[C++" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][C++]
 [<img alt="Python" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Python]
-
-## 📚 Learning Right Now
-
-[<img alt="Angular" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">][Angular]
-[<img alt="JavaScript" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JavaScript]
-[<img alt="Spring Framework" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />][Spring Framework]
-[<img alt="Tensorflow" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"  />][Tensorflow]
 
 ## 📃 Check my blog
 
@@ -54,9 +42,7 @@
 
 <!-- Reference URLs -->
 [Angular]: https://angular.io/
-[Tensorflow]: https://www.tensorflow.org/
 [Unity3D]: https://unity.com/es
-[Spring Framework]: https://spring.io/
 [Java]: https://www.java.com/es/download/
 [LinkedIn]: https://www.linkedin.com/in/algarleon/
 [CodePen]: https://codepen.io/algarle
